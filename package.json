@@ -19,6 +19,6 @@
   "homepage": "https://github.com/the-notorious-f-e-c/zagat-proxy-erik#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "proxy": "^0.2.4"
+    "proxy": "^1.0.2"
   }
 }
